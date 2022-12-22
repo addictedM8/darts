@@ -1,0 +1,34 @@
+.table {
+  font-size: initial;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.table td,
+th {
+  padding: 12px;
+}
+
+.table th {
+  cursor: pointer;
+}
+
+.tableBody tr {
+  border-bottom: thin rgb(25, 26, 59) solid;
+}
+
+.tableBody tr:hover {
+  background-color: rgb(117, 148, 179);
+}
+
+.expandButton {
+  cursor: pointer;
+}
+
+.expandableRow {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  text-align: center;
+}
