@@ -9,6 +9,7 @@ import "@fontsource/roboto/700.css";
 import Main from "./nakka/Main";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import Container from "@mui/material/Container";
+import { Box } from "@mui/material";
 
 const darkTheme = createTheme({
   palette: {
@@ -18,13 +19,12 @@ const darkTheme = createTheme({
 
 function App() {
   return (
-    // <div className="App">
     <ThemeProvider theme={darkTheme}>
-      <Main />
+      <Box sx={{ flexGrow: 1 }}>
+        <Main />
+      </Box>
     </ThemeProvider>
-    // </div>
   );
-  // return <div className="App" />;
 }
 
 export default App;
