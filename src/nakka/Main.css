@@ -1,0 +1,32 @@
+.matchPlayer1 {
+  display: flex;
+  flex-grow: 8;
+  flex-basis: 0;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.matchPlayer2 {
+  display: flex;
+  flex-grow: 8;
+  flex-basis: 0;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.matchDescription {
+  display: flex;
+  flex-grow: 1;
+  flex-basis: 0;
+  flex-direction: column;
+  align-items: center;
+  margin-inline: 10px;
+}
+
+.responsiveContainer {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  flex-wrap: wrap;
+  align-content: center;
+}
