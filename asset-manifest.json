@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/darts/static/css/main.0652c731.css",
-    "main.js": "/darts/static/js/main.a08db030.js",
+    "main.css": "/darts/static/css/main.2e4ebfec.css",
+    "main.js": "/darts/static/js/main.2656a9e0.js",
     "static/js/787.cce8fcf1.chunk.js": "/darts/static/js/787.cce8fcf1.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/darts/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/darts/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -37,12 +37,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/darts/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/darts/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/darts/index.html",
-    "main.0652c731.css.map": "/darts/static/css/main.0652c731.css.map",
-    "main.a08db030.js.map": "/darts/static/js/main.a08db030.js.map",
+    "main.2e4ebfec.css.map": "/darts/static/css/main.2e4ebfec.css.map",
+    "main.2656a9e0.js.map": "/darts/static/js/main.2656a9e0.js.map",
     "787.cce8fcf1.chunk.js.map": "/darts/static/js/787.cce8fcf1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0652c731.css",
-    "static/js/main.a08db030.js"
+    "static/css/main.2e4ebfec.css",
+    "static/js/main.2656a9e0.js"
   ]
 }
